@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423490000779",
+    "project_id": "testadit-1cde6",
+    "storage_bucket": "testadit-1cde6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423490000779:android:9f48e1ba6bdee9552b018e",
+        "android_client_info": {
+          "package_name": "com.example.testadit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLwiNMFGy4LmcXaJo9z7KqLWE2_jpYsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
